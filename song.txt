@@ -12,4 +12,5 @@ Oden's son
 Attack!
 
 Lets try again
+This is how to solve a conflict
 
